@@ -4,3 +4,6 @@ This repository is part of the module 3 exercise "Initialize a Git Repository lo
 Super duper 2
 
 Hello
+
+
+coomit full of errors...
